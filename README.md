@@ -51,10 +51,6 @@ This repository accompanies our ICML-style research paper on time-aware longitud
 | AUC@3y | 0.6926 | 0.7286 | 0.7457 |
 | AUC@5y | 0.7496 | 0.7318 | 0.7405 |
 | Binary AUC | 0.7372 | 0.7404 | 0.7532 |
-| Accuracy | 0.6825 | 0.6825 | 0.6825 |
-| F1 | 0.6429 | 0.6429 | 0.6429 |
-| Sensitivity | 0.7500 | 0.7500 | 0.7500 |
-| Specificity | 0.6410 | 0.6410 | 0.6410 |
 
 ## Key Findings
 
