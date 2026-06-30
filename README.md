@@ -40,7 +40,6 @@ This repository accompanies our ICML-style research paper on time-aware longitud
 
 - C-index (primary survival metric).
 - Time-dependent AUC at 2y/3y/5y using `cumulative_dynamic_auc` with windows [730, 1095, 1825] days.
-- Binary metrics are computed using a threshold on predicted risk scores (median split on training set).
 
 ## Results (Test Set)
 
@@ -56,4 +55,3 @@ This repository accompanies our ICML-style research paper on time-aware longitud
 
 - Modeling irregular time gaps improves survival ranking (C-index ↑)
 - ALiBi provides strongest gains in short-term prediction (AUC@2y ↑)
-- Binary classification metrics remain unchanged, confirming improvements are in risk calibration rather than threshold accuracy
